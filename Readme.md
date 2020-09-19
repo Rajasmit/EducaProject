@@ -6,6 +6,7 @@
 - python manage.py makemigrations
 - python manage.py migrate
 - python manage.py createsuperuser
+- Please install memcached have and have it run locally
 - python manage.py runserver
 
 <p>
