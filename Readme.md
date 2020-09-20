@@ -16,3 +16,6 @@ By using model inheritance, I created a versatile system to manage different typ
 <p>
 I implemented the public views for the course catalog. I also built a system for students to register and enroll on courses aswell as created the functionality to render different types of content for the course modules. Finally, I learned how to use the Django cache framework and I installed and monitored the Memcached cache backend.
 </p>
+<p>
+I used the Django REST framework to build a RESTful API for my project. I created serializers and views for models, and I built custom API views. I also added authentication to my API and restricted access to API views using permissions. Next, I created custom permissions, and implemented viewsets and routers. Finally, I used the Requests library to consume the API from an external Python script.
+</p>
