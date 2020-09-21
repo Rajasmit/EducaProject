@@ -19,3 +19,7 @@ I implemented the public views for the course catalog. I also built a system for
 <p>
 I used the Django REST framework to build a RESTful API for my project. I created serializers and views for models, and I built custom API views. I also added authentication to my API and restricted access to API views using permissions. Next, I created custom permissions, and implemented viewsets and routers. Finally, I used the Requests library to consume the API from an external Python script.
 </p>
+
+<p>
+I created a chat server using Channels, implemented a WebSocket consumer and client.I also enabled communication between consumers using a channel layer with Redis and modified the consumer to be fully asynchronous.
+</p>
