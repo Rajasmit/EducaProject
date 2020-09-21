@@ -14,6 +14,8 @@ python-memcached = "==1.59"
 django-memcache-status = "==2.2"
 djangorestframework = "==3.11.0"
 requests = "==2.23"
+channels = "==2.4.0"
+channels-redis = "==2.4.2"
 
 [requires]
 python_version = "3.8"
